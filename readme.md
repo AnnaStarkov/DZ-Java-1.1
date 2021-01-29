@@ -10,7 +10,7 @@
 **В качестве тестовых данных использовались данные: <https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md>**
 
 **Ключи для проверки**
-
+***
 **_Валидные ключи:_**
 
 **8f05e6a7-70e9-33d7-bfe7-b19eae0d8998**
