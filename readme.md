@@ -28,9 +28,9 @@ c2bc778a-1cb9-46c6-b435-0489649d2a42
 
 **В результате тестирования выявлены следующие дефекты:**  
 
-<https://github.com/AnnaStarkov/DZ-Java-1.1/issues/2#issue-796744407>  
-<https://github.com/AnnaStarkov/DZ-Java-1.1/issues/3#issue-796749434>  
-<https://github.com/AnnaStarkov/DZ-Java-1.1/issues/4#issue-796751292>
+1. <https://github.com/AnnaStarkov/DZ-Java-1.1/issues/2#issue-796744407>  
+1. <https://github.com/AnnaStarkov/DZ-Java-1.1/issues/3#issue-796749434>  
+1. <https://github.com/AnnaStarkov/DZ-Java-1.1/issues/4#issue-796751292>
 
 
 **Тестирование производилось в следующем окружении:**
