@@ -7,7 +7,7 @@
 
 ## Описание процесса тестирования ##
 
-### В качестве тестовых данных использовались данные: <https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md> ###
+### В качестве тестовых данных использовались [данные][4] ###
 
 ## Ключи для проверки ##  
 **_Валидные ключи:_**  
@@ -28,12 +28,17 @@ c2bc778a-1cb9-46c6-b435-0489649d2a42
 
 **В результате тестирования выявлены следующие дефекты:**  
 
-1. <https://github.com/AnnaStarkov/DZ-Java-1.1/issues/2#issue-796744407>  
-1. <https://github.com/AnnaStarkov/DZ-Java-1.1/issues/3#issue-796749434>  
-1. <https://github.com/AnnaStarkov/DZ-Java-1.1/issues/4#issue-796751292>
+1. [Ключ 80b427f8-92cd-3aae-ba04-3927fbe17c6][1] 
+1. [Ключ 387eedc6-12e9-3b32-9881-63b6b5e85317][2]
+1. [Ключ 2fb98b44-93e7-3bdd-a2ad-79347bfe4ad1][3]
 
 
 **Тестирование производилось в следующем окружении:**
 
 <Windows 10 Домашняя Версия 2004, Разрядность - 64>
 <версия Java openjdk 11.0.10 2021-01-19>
+
+[1]: https://github.com/AnnaStarkov/DZ-Java-1.1/issues/2#issue-796744407  
+[2]: https://github.com/AnnaStarkov/DZ-Java-1.1/issues/3#issue-796749434  
+[3]: https://github.com/AnnaStarkov/DZ-Java-1.1/issues/4#issue-796751292
+[4]: https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md
